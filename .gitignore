@@ -1,0 +1,12 @@
+node_modules
+
+/www/*.js
+/vendor/*.js
+/vendor/*.js.map
+/app/*.js
+/app/*.is.map
+/app/*/*.js
+/app/*/*.js.map
+
+.idea/*.*
+*.js.map

@@ -1,0 +1,21 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "noLib": false,
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "skipLibCheck": true,
+        "baseUrl": ".",
+        "paths": {
+            "@router/*": ["vendor/*"]
+        }
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
