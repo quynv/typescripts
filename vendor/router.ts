@@ -1,7 +1,6 @@
 import * as express from "express";
 import "reflect-metadata";
 import * as klawAsync from "klaw-sync";
-import * as path from "path";
 
 export enum Method {
     GET = "get",

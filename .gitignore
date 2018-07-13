@@ -10,3 +10,6 @@ node_modules
 
 .idea/*.*
 *.js.map
+.nyc_output/*.*
+/test/coverage/
+/test/*/*.js
